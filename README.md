@@ -1,7 +1,5 @@
 # errors_faced
 
-C:\WIP\_working\v07_1201\mpos>npm test
-
 > mpos@1.0.8 test C:\WIP\_working\v07_1201\mpos
 > jest
 
