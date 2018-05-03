@@ -1,3 +1,6 @@
+https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/README.md
+
+
 # errors_faced
 
 > mpos@1.0.8 test C:\WIP\_working\v07_1201\mpos
